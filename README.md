@@ -1,25 +1,15 @@
-# Datastructures-Algorithms-Made-Easy-Cracking-Coding-Interview-
-# Foobar
+# AlgoDS-is-Fun
 
-Foobar is a Python library for dealing with word pluralization.
+AlgoDS-is-Fun is a C++ tutorials and libraries for learning algorithms & data structures easily and cracking coding interview for big companies.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use this command to clone the repo or download it as zip file.
 
 ```bash
-pip install foobar
+git clone https://github.com/EngAhmedSalah/AlgoDS-is-Fun
 ```
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -28,4 +18,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-Datastructures &amp; Algorithms tutorials and source codes using C++ , this repo for Cracking Coding Interviews
