@@ -7,7 +7,7 @@ AlgoDS-is-Fun is a C++ tutorials and libraries for learning algorithms & data st
 Use this command to clone the repo or download it as zip file.
 
 ```bash
-git clone https://github.com/EngAhmedSalah/AlgoDS-is-Fun
+git clone
 ```
 
 
