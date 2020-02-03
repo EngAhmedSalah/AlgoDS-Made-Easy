@@ -2,7 +2,7 @@
 
 AlgoDS-is-Fun is a C++ tutorials and libraries for learning algorithms & data structures easily and cracking coding interview for big companies.
 
-## Installation
+## Download
 
 Use this command to clone the repo or download it as zip file.
 
