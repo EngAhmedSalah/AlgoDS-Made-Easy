@@ -15,16 +15,13 @@ git clone
 2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
 
 <a name="Introduction"></a>
-## 1. Introduction
-
-sometext
-
+# 1. Introduction
 <a name="Recusion_and_Backtracking"></a>
-## 2. Recusion and Backtracking
-## 3. Linked List
-## 4. Stack
-## 5. Queue
-## 6. Trees
+# 2. Recusion and Backtracking
+# 3. Linked List
+# 4. Stack
+# 5. Queue
+# 6. Trees
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
