@@ -19,6 +19,18 @@ git clone
 4. [ Stack. ](#Recusion_and_Backtracking)
 5. [ Queue. ](#Recusion_and_Backtracking)
 6. [ Trees. ](#Recusion_and_Backtracking)
+7. [ Priority Queues and Heaps. ](#Recusion_and_Backtracking)
+8. [ Disjoint Sets ADT. ](#Recusion_and_Backtracking)
+9. [ Graph Algorithms. ](#Recusion_and_Backtracking)
+10. [ Sorting. ](#Recusion_and_Backtracking)
+11. [ Searching. ](#Recusion_and_Backtracking)
+12. [ Hashing. ](#Recusion_and_Backtracking)
+13. [ String Algorithms. ](#Recusion_and_Backtracking)
+14. [ Greedy. ](#Recusion_and_Backtracking)
+15. [ Dynamic Programming. ](#Recusion_and_Backtracking)
+16. [ Number Theory. ](#Recusion_and_Backtracking)
+17. [ Hacks on Bit-wise Programming. ](#Recusion_and_Backtracking)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
