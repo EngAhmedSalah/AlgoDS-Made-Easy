@@ -11,11 +11,11 @@ git clone
 ```
 
 
-#Table of Contents
+# Table of Contents
 =================
 
    * [ Introduction. ](#Introduction)   <a name="Introduction"></a>
-   * [ Data structures ](#ds)
+   * ## [ Data structures ](#ds)
       * [ Data Types. ](#recusion)
         * [ Primitive types](#primitive)
         * [ Non-Primitive types](#non-primitive)
@@ -32,6 +32,7 @@ git clone
       * [ Trees. ](#Recusion_and_Backtracking)
       * [ Priority Queues and Heaps. ](#Recusion_and_Backtracking)
       * [ Disjoint Sets ADT. ](#Recusion_and_Backtracking)
+   * ## [ Algorithms ](#ds)
       * [ Recusion and Backtracking. ](#Recusion_and_Backtracking)  <a name="Recusion_and_Backtracking"></a>
       * [ Graph Algorithms. ](#Recusion_and_Backtracking)
       * [ Sorting. ](#Recusion_and_Backtracking)
