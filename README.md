@@ -10,7 +10,7 @@ Use this command to clone the repo or download it as zip file.
 git clone
 ```
 
-##Table Of Contents
+## Table Of Contents
 1. [ Introduction. ](#Introduction)
 2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
 
