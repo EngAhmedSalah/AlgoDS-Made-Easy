@@ -32,6 +32,7 @@ git clone
       * [ Trees. ](#Recusion_and_Backtracking)
       * [ Priority Queues and Heaps. ](#Recusion_and_Backtracking)
       * [ Disjoint Sets ADT. ](#Recusion_and_Backtracking)
+      * [ Standard Templete Libraries in C++ (STL) ](#stl)
    * ## [ Algorithms ](#ds)
       * [ Recusion and Backtracking. ](#Recusion_and_Backtracking)  <a name="Recusion_and_Backtracking"></a>
       * [ Graph Algorithms. ](#Recusion_and_Backtracking)
