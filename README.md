@@ -13,14 +13,17 @@ git clone
 # Table Of Contents
 1. [ Introduction. ](#Introduction)
 <a name="Introduction"></a>
-2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
-<a name="Recusion_and_Backtracking"></a>
-3. [ Linked List. ](#Recusion_and_Backtracking)
+2. [ Data Types. ](#Recusion_and_Backtracking)
+   [[ test. ]]
+2. [ Arrays. ](#Recusion_and_Backtracking)
+2. [ Linked List. ](#Recusion_and_Backtracking)
 4. [ Stack. ](#Recusion_and_Backtracking)
 5. [ Queue. ](#Recusion_and_Backtracking)
 6. [ Trees. ](#Recusion_and_Backtracking)
 7. [ Priority Queues and Heaps. ](#Recusion_and_Backtracking)
 8. [ Disjoint Sets ADT. ](#Recusion_and_Backtracking)
+2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
+<a name="Recusion_and_Backtracking"></a>
 9. [ Graph Algorithms. ](#Recusion_and_Backtracking)
 10. [ Sorting. ](#Recusion_and_Backtracking)
 11. [ Searching. ](#Recusion_and_Backtracking)
