@@ -12,16 +12,13 @@ git clone
 
 # Table Of Contents
 1. [ Introduction. ](#Introduction)
-2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
-
 <a name="Introduction"></a>
-## 1. Introduction
+2. [ Recusion and Backtracking. ](#Recusion_and_Backtracking)
 <a name="Recusion_and_Backtracking"></a>
-## 2. Recusion and Backtracking
-## 3. Linked List
-## 4. Stack
-## 5. Queue
-## 6. Trees
+3. [ Linked List. ](#Recusion_and_Backtracking)
+4. [ Stack. ](#Recusion_and_Backtracking)
+5. [ Queue. ](#Recusion_and_Backtracking)
+6. [ Trees. ](#Recusion_and_Backtracking)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
