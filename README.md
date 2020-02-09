@@ -14,11 +14,11 @@ git clone
 # Table of Contents
 =================
 
-   * [ Introduction. ](#Introduction)   <a name="Introduction"></a>
+   * [ Introduction. ](#Introduction) 
    * ## [ Data structures ](#ds)
       * [ Data Types. ](#recusion)
         * [ Primitive types](#primitive)
-        * [ Non-Primitive types](#non-primitive)
+        * [ Non-Primitive types](https://github.com/EngAhmedSalah/AlgoDS-Made-Easy/tree/master/Data%20Types/Non-premetive)
       * [ Arrays. ](#Recusion_and_Backtracking)
          * [1D Arrays](#1da)
          * [2D Arrays](#2da)
